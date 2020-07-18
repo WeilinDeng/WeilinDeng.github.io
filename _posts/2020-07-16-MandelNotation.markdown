@@ -91,7 +91,7 @@ $$
 \end{equation}
 $$
 
-where it is recalled that the $(i, j, k, l)$ component of $\bs{C}:\bs{s}$ is $C_{ijmn}S_{mnkl}$. It results from the above formula that the Mandel representation of the inverse of a fourth order tensor is the inverse of the Mandel representation of this tensor
+where it is recalled that the $(i, j, k, l)$ component of $\bs{C}:\bs{S}$ is $C_{ijmn}S_{mnkl}$. It results from the above formula that the Mandel representation of the inverse of a fourth order tensor is the inverse of the Mandel representation of this tensor
 
 $$
 \begin{equation}
