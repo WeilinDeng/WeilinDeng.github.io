@@ -87,7 +87,7 @@ Likewise, if $\bs{S}$ is another fourth order tensor with minor symmetries, then
 
 $$
 \begin{equation}
-[\bs{C}:\bs{s}] = [\bs{C}]\cdot[\bs{s}],
+[\bs{C}:\bs{S}] = [\bs{C}]\cdot[\bs{S}],
 \end{equation}
 $$
 
