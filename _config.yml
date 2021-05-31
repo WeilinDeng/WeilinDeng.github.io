@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 name: Weilin Deng
-email: weilin_deng@brown.edu
+email: weilin_deng@alumni.brown.edu
 description: > # this means to ignore newlines until "url:"
   Personal website based on a simple, whitespace theme for academics.
 #  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
@@ -12,7 +12,7 @@ description: > # this means to ignore newlines until "url:"
 
 url: # the base hostname & protocol for your site
 baseurl: #/weilindeng.com # the subpath of your site, e.g. /blog/
-last_updated: 2020-03-13 # leave blank if you don't want to display last updated
+last_updated: 2021-05-31 # leave blank if you don't want to display last updated
 
 # -----------------------------------------------------------------------------
 # Open Graph
@@ -28,7 +28,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 github_username: WeilinDeng
 twitter_username: # your Twitter handle
 linkedin_username: weilin-deng
-scholar_userid: qfDjlzUAAAAJ&hl
+scholar_userid: roR0QM0AAAAJ&hl
 orcid_id: # 0000-0002-5834-0644
 medium_username: # your Medium username
 quora_username: # your Quora username
@@ -45,7 +45,7 @@ google_analytics: UA-155423324-2 # out your google-analytics code
 # Blog
 # -----------------------------------------------------------------------------
 blog_name: Blog
-# blog_description: 
+# blog_description:
 
 # Pagination
 paginate: 4
@@ -98,7 +98,7 @@ plugins:
     - jekyll-email-protect
     - jekyll-paginate
     - jemoji
-    - jekyll/scholar    
+    - jekyll/scholar
 
 # Jekyll-Scholar
 scholar:

@@ -4,4 +4,4 @@ date: 2019-08-16
 inline: true
 ---
 
-Completed my final Ph.D. defense :mortar_board:
+Completed my Ph.D. defense :mortar_board:
