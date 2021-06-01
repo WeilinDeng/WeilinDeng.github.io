@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   address: >
     <p>395 Angel St.,</p>
-    <p>Providence, RI 02912</p>
+    <p>Providence, RI 02906</p>
 
 
 news: true
